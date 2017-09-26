@@ -19,7 +19,7 @@
  unicode of Ж is 1046
 
  b) 
- 1046 is bigger than 0000 0111 1111 1111 = 0x07ff = 2047 
+ 1046 is lower than 0000 0111 1111 1111 = 0x07ff = 2047 
 
  c)
                                         5 bit      11 bit
