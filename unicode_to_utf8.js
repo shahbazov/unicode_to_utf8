@@ -32,7 +32,7 @@
  
  a,b,c point to utf8 pattern2
  
- so, all we need to do now is to acoomodate the 11 (5+6) bits of 1046 to utf8 2047 format 110xxxxx  10xxxxxx  
+ so, all we need to do now is to acoommodate the 11 (5+6) bits of 1046 to utf8 2047 format 110xxxxx  10xxxxxx  
 
  lets go
 
